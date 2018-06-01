@@ -1,0 +1,5 @@
+ng new ngrxPost
+npm install @ngrx/store --save
+npm install @ngrx/store-devtools --save
+--Redux Dev tool
+-- dispacth event>action>reducer>change state
